@@ -1,3 +1,9 @@
 .red {
   color: red;
 }
+
+body {
+  background-image: url(../images/circles.png);
+  background-size: cover;
+  /*background-position: center;*/
+}
