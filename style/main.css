@@ -21,6 +21,15 @@ body {
   font-size: 20px;
 }
 
+.bottom {
+  margin-top: 350px;
+}
+
+.changeWidth {
+  width: 875px;
+  margin-left: 130px;
+}
+
 #tcb-testimonial-carousel {
   margin-top: 30px;
 }
