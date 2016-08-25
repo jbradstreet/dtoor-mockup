@@ -29,12 +29,16 @@ body {
 }
 
 .bottom {
-  margin-top: 100px;
+  margin-top: 25px;
 }
 
 .changeWidth {
   width: 875px;
   margin-left: 130px;
+}
+
+.carousel .item {
+  height: 300px;
 }
 
 #tcb-testimonial-carousel {
