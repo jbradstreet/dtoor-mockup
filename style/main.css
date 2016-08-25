@@ -25,11 +25,11 @@ body {
 .logoPlacement {
   height: 200px;
   width: 200px;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 .bottom {
-  margin-top: 250px;
+  margin-top: 100px;
 }
 
 .changeWidth {
