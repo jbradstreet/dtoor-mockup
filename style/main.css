@@ -1,4 +1,3 @@
-
 body {
   background-image: url(../images/bluecircle.png);
   background-repeat: no-repeat;
@@ -38,7 +37,7 @@ body {
   height: 300px;
 }
 
-.cyrcleImg {
+.carouselImg {
   height: 200px;
   width: 200px;
 }
@@ -47,7 +46,7 @@ body {
   margin-top: 30px;
 }
 #tcb-testimonial-carousel a {
-  color: #b20000;
+  color: ##2888D4;
 }
 #tcb-testimonial-carousel .text-brand {
   color: #b20000;
