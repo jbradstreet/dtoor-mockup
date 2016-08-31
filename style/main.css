@@ -1,5 +1,5 @@
 body {
-  background-image: url(../images/circleColor2.png);
+  background-image: url(../images/bluecircle.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -20,7 +20,7 @@ body {
 
 .logoPlacement {
   height: 250px;
-  width: 750px;
+  width: 700px;
   margin-top: 40px;
 }
 
@@ -40,6 +40,11 @@ body {
 .carouselImg {
   height: 200px;
   width: 200px;
+}
+
+.logoCarouselImg {
+  height: 160px;
+  width: 160px;
 }
 
 #tcb-testimonial-carousel {
