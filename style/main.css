@@ -38,8 +38,16 @@ body {
 }
 
 .firstCarouselImg {
-  height: 250px;
+  height: 225px;
   width: 325px;
+}
+
+.firstTitle {
+  font-size: 25px !important;
+}
+
+.firstCaption {
+  font-size: 17px;
 }
 
 .carouselImg {
