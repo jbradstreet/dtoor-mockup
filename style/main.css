@@ -60,6 +60,10 @@ body {
   width: 175px;
 }
 
+#iconMargin {
+  margin: 3px;
+}
+
 #tcb-testimonial-carousel {
   margin-top: 120px;
 }
