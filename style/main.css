@@ -37,6 +37,12 @@ body {
   height: 300px;
 }
 
+.firstCarouselImg {
+  height: 225px;
+  width: 275px;
+}
+
+
 .carouselImg {
   height: 200px;
   width: 200px;
