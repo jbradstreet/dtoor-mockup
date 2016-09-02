@@ -23,6 +23,7 @@ body {
   width: 700px;
   margin-top: 60px;
   margin-left: 10px;
+  /*position: absolute;*/
 }
 
 .bottom {
@@ -103,7 +104,11 @@ body {
   margin: auto;
 }
 @media screen and (max-width: 768px) {
-  #tcb-testimonial-carousel .media-object {
-    margin-bottom: 15px;
+  .logoPlacement {
+    height: 161px;
+    width: 490px;
+    margin-top: 200px;
+    margin-left: 220px;
   }
+
 }
