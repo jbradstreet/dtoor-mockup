@@ -18,9 +18,13 @@ body {
   font-size: 20px;
 }
 
+#windowResize {
+  overflow: hidden;
+}
+
 .logoPlacement {
-  /*height: 230px;
-  width: 700px;*/
+  height: 50%;
+  width: 100%;
   margin-top: 60px;
   margin-left: 5px;
 }
