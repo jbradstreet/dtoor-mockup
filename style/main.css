@@ -4,6 +4,7 @@ body {
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
+  position: relative;
 }
 
 .title {
@@ -12,20 +13,18 @@ body {
   font-size: 60px;
 }
 
-/*use this font family for all <p> text*/
- {
-  font-family: 'EB Garamond', serif;
-  font-size: 20px;
+.emptyDiv {
+  height:70px;
 }
 
 .logoPlacement {
-  height: 230px;
-  width: 700px;
-  /*margin-top: 60px;
-  margin-left: 10px;*/
+  height: 130px;
+  width: 500px;
+  /*margin-top: 60px;*/
+  /*margin-left: 5px;*/
   position: absolute;
-  top: 60px;
-  left: 10px;
+  /*top: 60px;
+  left: 10px;*/
 }
 
 .adjCarousel {
@@ -111,12 +110,40 @@ body {
 @media screen and (max-width: 768px) {
   .logoPlacement {
     height: 230px;
-    width: 700px;
-    margin-top: 150px;
-    margin-left: 300px;
+    width: 650px;
+    margin-top: 118px;
+    margin-left: 110px;
+    position: absolute;
   }
 
-  .adjCarousel {
-    margin-top: 350px;
+  /*.adjCarousel {
+    margin-top: 300px;
+    width: 100px;
+    position: absolute;
+  }*/
+
+  .changeWidth {
+    width: 475px;
+    margin-left: 130px;
+    position: absolute;
   }
+
+  #tcb-testimonial-carousel {
+    margin-top: 200px;
+    /*width: 600px;
+    position: absolute;*/
+  }
+
+  .firstCarouselImg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 150px;
+  }
+
+  figcaption {
+    float: right;
+  }
+
 }
