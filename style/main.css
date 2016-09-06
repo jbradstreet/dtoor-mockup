@@ -23,29 +23,42 @@ body {
   /*margin-top: 60px;*/
   /*margin-left: 5px;*/
   position: absolute;
-  /*top: 60px;
-  left: 10px;*/
+  top: 10px;
+  left: 80px;
 }
 
+/*.emptyDiv2 {
+  height:70px;
+  position: relative;
+}*/
+
 .adjCarousel {
-  /*margin-top: 25px;*/
-  margin-top: 250px;
+  margin-top: 25px;
+  margin-top: 100px;
   margin-left: 500px;
   position: absolute;
 }
 
 .changeWidth {
-  width: 875px;
-  margin-left: 130px;
+  width: 675px;
+  margin-left: 75px;
 }
 
 .carousel .item {
   height: 300px;
+  margin-top: 100px;
+  margin-left: 50px;
+  /*position: absolute;*/
 }
 
 .firstCarouselImg {
   height: 225px;
   width: 325px;
+  float: left;
+}
+
+.carouselText {
+  float: right;
 }
 
 #adjTitle {
