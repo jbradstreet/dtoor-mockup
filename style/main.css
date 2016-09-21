@@ -33,7 +33,7 @@ body {
 }*/
 
 .adjCarousel {
-  margin-top: 75px;
+  margin-top: 55px;
   /*margin-top: 100px;
   margin-left: 500px;
   position: absolute;*/
@@ -48,7 +48,6 @@ body {
   height: 300px;
   margin-top: 100px;
   margin-left: 50px;
-  /*position: absolute;*/
 }
 
 .firstCarouselImg {
