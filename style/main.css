@@ -57,6 +57,15 @@ body {
   float: left;
 }
 
+@media screen and (max-width: 978px) {
+  .firstCarouselImg {
+    height: 175px;
+    width: 250px;
+    float: left;
+  }
+
+}
+
 .carouselText {
   float: right;
 }
