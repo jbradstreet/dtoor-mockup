@@ -33,10 +33,10 @@ body {
 }*/
 
 .adjCarousel {
-  margin-top: 25px;
-  margin-top: 100px;
+  margin-top: 75px;
+  /*margin-top: 100px;
   margin-left: 500px;
-  position: absolute;
+  position: absolute;*/
 }
 
 .changeWidth {
@@ -128,35 +128,4 @@ body {
     margin-left: -80px;
     position: absolute;
   }
-
-  /*.adjCarousel {
-    margin-top: 300px;
-    width: 100px;
-    position: absolute;
-  }*/
-
-  .changeWidth {
-    width: 475px;
-    margin-left: 130px;
-    position: absolute;
-  }
-
-  #tcb-testimonial-carousel {
-    margin-top: 200px;
-    /*width: 600px;
-    position: absolute;*/
-  }
-
-  .firstCarouselImg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 200px;
-    height: 150px;
-  }
-
-  figcaption {
-    float: right;
-  }
-
 }
